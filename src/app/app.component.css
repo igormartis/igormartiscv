@@ -1,0 +1,68 @@
+/* .intro {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: url(https://images.pexels.com/photos/9754/mountains-clouds-forest-fog.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    display: table;
+    top: 0; 
+    background-size: cover;
+}
+
+.intro .inner {
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    max-width: none;
+}
+
+.content{
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 28%;
+}
+
+.content h1 {
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 600%;
+    font-weight: 100;
+    color: #E1EfE9;
+    line-height: 70%;
+}
+
+@media screen and (max-width: 900px) {
+    .content {
+        padding-bottom: 28%;
+    }
+    .content h1 {
+        font-size: 450%;
+    }
+
+    .btn {
+        font-size: 110%;
+        padding: 7px 15px;
+    }
+}
+@media screen and (max-width: 768px) {
+    
+}
+@media screen and (max-width: 480px) {
+    
+} */
+
+
+/* .parent:hover .child, .parent:focus .child {
+    -ms-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+    height: 100%;
+    width: 100%;
+} */
+/* .child {
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+} */

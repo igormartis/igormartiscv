@@ -1,0 +1,38 @@
+.header-content {
+  animation: fade-slide-down 2s 3s cubic-bezier(0, 0.5, 0, 1) forwards;
+  content: "";
+  opacity: 0;
+
+}
+
+@keyframes fade-slide-down {
+  0% {
+    opacity: 0;
+    transform: translateY(-4rem);
+  }
+
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.column {
+  flex: 50%;
+}
+
+.row {
+  display: flex;
+}
+
+.tsw {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, .8)),
+    url(../../assets/img/Sede_Tiscali_Sa_Illetta.jpeg) no-repeat bottom;
+    background-size: cover;
+    opacity: 1;
+    /* position: absolute; */
+    /* top: 0; */
+    /* right: 0; */
+    /* bottom: 0; */
+    /* left: 0; */
+}
