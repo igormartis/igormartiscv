@@ -25,10 +25,13 @@
             "styles": [
               "src/styles.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "node_modules/animate.css/animate.min.css"
+              "node_modules/animate.css/animate.min.css",
+              "src/assets/vendor/loaderjs/loading-bar.css"
             ],
             "scripts": [
-              "node_modules/scrollreveal/dist/scrollreveal.js"
+              "node_modules/scrollreveal/dist/scrollreveal.js",
+              "node_modules/progressbar.js/dist/progressbar.min.js",
+              "src/assets/vendor/loaderjs/loading-bar.js"              
             ]
           },
           "configurations": {

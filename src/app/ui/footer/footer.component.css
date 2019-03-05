@@ -1,0 +1,9 @@
+.footer {
+  background: url(../../../assets/img/foot_texture.jpg) repeat;
+  width: 100%;
+  padding: 20px 0;
+  font-size: 1.7em;
+  font-family: helvetica, Arial;
+  color: #6d6d6d;
+  text-align: center;
+}

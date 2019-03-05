@@ -1,0 +1,92 @@
+.contacts-wrapper {
+  width: 100%;
+  background: url(../../../assets/img/foot_texture.jpg) repeat;
+}
+
+#contacts {
+  padding: 40px 0;
+}
+
+#contacts {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+#contacts .article {
+  float: left;
+  width: 48%;
+}
+
+.contacts-wrapper h2,
+.contacts-wrapper h3 {
+  color: #8e8e8e !important;
+}
+
+#contacts h2 {
+  text-align:left;
+}
+
+h2 {
+  text-align: center;
+  padding: 12px 20px;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+
+#contacts .artc2 {
+  width: 38%;
+  padding-left: 10%;
+}
+
+.contacts-wrapper p {
+  color: #6d6d6d !important;
+  padding-top: 2px;
+}
+
+.clear {
+  clear: both;
+
+}
+
+p {
+    font-size: 1.7em;
+    font-family: helvetica,Arial;
+    color: #5c5c5c;
+    line-height: 1.5em;
+    padding: 9px 20px;
+}
+
+h3{
+    padding: 20px 20px 0;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.contactWrapper a {
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+a, a:link {
+    text-decoration: none;
+}
+a:active, a:link {
+    outline: none;
+}
+
+li {
+    line-height: 1.5em;
+    padding: 0px 20px;
+    margin: 0px;
+    list-style: none;
+}
+
+ul {
+    padding: 9px 0;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+}
